@@ -1,13 +1,13 @@
 {
-    "name": "aliyuncs/oss-sdk-php",
-    "description": "Aliyun OSS SDK for PHP",
+    "name": "trrtly/oss-sdk-php",
+    "description": "Aliyun OSS SDK for PHP With Server",
     "homepage": "http://www.aliyun.com/product/oss/",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Aliyuncs",
-            "homepage": "http://www.aliyun.com"
+            "name": "trrtly",
+            "homepage": "https://github.com/trrtly"
         }
     ],
     "require": {
